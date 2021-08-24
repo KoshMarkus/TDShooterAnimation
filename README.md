@@ -1,2 +1,3 @@
 # TDShooterAnimation
- Пример реализации анимации ходьбы и добивания противника в игре жанра top down shooter.
+
+An integration of the animation of walking and finishing off an enemy in a top-down shooter.
